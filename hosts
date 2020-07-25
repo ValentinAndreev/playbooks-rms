@@ -1,0 +1,11 @@
+[db]
+46.101.108.142
+
+[rabbitmq]
+46.101.108.142
+
+[nginx]
+46.101.108.142
+
+[all:vars]
+ansible_user=deploy
