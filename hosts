@@ -1,11 +1,14 @@
 [db]
-46.101.108.142
+# PostgreSQL hosts
 
 [rabbitmq]
-46.101.108.142
+# RabbitMQ hosts
 
 [nginx]
-46.101.108.142
+# nginx hosts
+
+[app]
+# microservices hosts
 
 [all:vars]
 ansible_user=deploy
